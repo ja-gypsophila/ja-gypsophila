@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hey! Nice to see you! 😄
 
+Welcome to my page!
+I'm Janghoon Kim
 <!--
 **ja-gypsophila/ja-gypsophila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## MY SkillStack
+## Things I code with
 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
